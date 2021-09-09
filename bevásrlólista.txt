@@ -3,4 +3,3 @@ _BEVÁSÁRLÓLISTA_
 -kenyér
 -sajt
 -tejföl
--kismacska
