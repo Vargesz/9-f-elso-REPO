@@ -1,1 +1,6 @@
 _BEVÁSÁRLÓLISTA_
+-tej
+-kenyér
+-sajt
+-tejföl
+-kismacska
